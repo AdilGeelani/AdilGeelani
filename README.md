@@ -18,6 +18,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adilgeelani&" alt="adilgeelani" /></p>
 
-<!-- 
-<img src="https://activity-graph.herokuapp.com/graph?username=AdilGeelani&theme=xcode"> -->
+<p><img src="https://activity-graph.herokuapp.com/graph?username=AdilGeelani&theme=xcode"></p>
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AdilGeelani&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AdilGeelani&langs_count=5&theme=tokyonight)]()
+
 
