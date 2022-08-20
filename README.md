@@ -17,5 +17,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adilgeelani&show_icons=true&locale=en" alt="adilgeelani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adilgeelani&" alt="adilgeelani" /></p>
-<img src="https://activity-graph.herokuapp.com/graph?username=AdilGeelani&theme=xcode">
+
+<!-- 
+<img src="https://activity-graph.herokuapp.com/graph?username=AdilGeelani&theme=xcode"> -->
 
