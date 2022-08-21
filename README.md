@@ -8,6 +8,8 @@
 
 ## 🤝🏻 Connect with Me
 <p align="left">
+
+ <a href="mailto:adil.geelani1999@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/87556416/185795639-55f509ff-9077-4277-be3f-b28dd0b31069.png" alt="adil-hussain-geelani" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/adil-hussain-geelani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adil-hussain-geelani" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adil_geelani1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adil_geelani1999" height="30" width="40" /></a>
 </p>
