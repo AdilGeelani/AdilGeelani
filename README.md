@@ -28,8 +28,7 @@
 </p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=adilgeelani&show_icons=true&locale=en&layout=compact" alt="adilgeelani" /></p>
 
-
-<p><img src="https://activity-graph.herokuapp.com/graph?username=AdilGeelani&theme=xcode"></p>
+<p><img src = "https://activity-graph.herokuapp.com/graph?username=AdilGeelani&theme=dracula"></p>
 
 ## 🐍 Snake Eating My Contributions: 
 ![snake gif](https://github.com/AdilGeelani/AdilGeelani/blob/output/github-contribution-grid-snake.gif)
