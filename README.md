@@ -30,7 +30,5 @@
 
 <p><img src = "https://activity-graph.herokuapp.com/graph?username=AdilGeelani&theme=dracula"></p>
 
-## 🐍 Snake Eating My Contributions: 
-![snake gif](https://github.com/AdilGeelani/AdilGeelani/blob/output/github-contribution-grid-snake.gif)
 
 
