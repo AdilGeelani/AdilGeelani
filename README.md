@@ -28,7 +28,7 @@
 </p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=adilgeelani&show_icons=true&locale=en&layout=compact" alt="adilgeelani" /></p>
 
-<p><img src = "https://activity-graph.herokuapp.com/graph?username=AdilGeelani&theme=dracula"></p>
+<p><img src = "https://activity-graph.herokuapp.com/graph?username=AdilGeelani&theme=tokyo-night"></p>
 
 
 
