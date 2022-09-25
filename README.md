@@ -23,10 +23,10 @@
 ## 📈 GitHub Stats & Graph
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adilgeelani&show_icons=true&locale=en" alt="adilgeelani" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adilgeelani&" alt="adilgeelani" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adilgeelani&show_icons=true&locale=en&theme=cobalt&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" alt="adilgeelani" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adilgeelani&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" alt="adilgeelani" />
 </p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=adilgeelani&show_icons=true&locale=en&layout=compact" alt="adilgeelani" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=adilgeelani&show_icons=true&locale=en&layout=compact&theme=cobalt&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" alt="adilgeelani" /></p>
 
 <p><img src = "https://activity-graph.herokuapp.com/graph?username=AdilGeelani&theme=tokyo-night"></p>
 
