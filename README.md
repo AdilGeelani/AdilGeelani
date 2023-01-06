@@ -1,4 +1,4 @@
-![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/top_full_stack.jpg)
+![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/top_full_stack.jpg width = 50 height = 50)
 <h1 align="center">Hi 👋, I'm Adil Hussain Geelani</h1>
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
