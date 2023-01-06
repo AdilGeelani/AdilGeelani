@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/top_full_stack.jpg)
 <h1 align="center">Hi 👋, I'm Adil Hussain Geelani</h1>
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
