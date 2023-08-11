@@ -12,8 +12,6 @@
  <a href="mailto:adil.geelani1999@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/87556416/185795639-55f509ff-9077-4277-be3f-b28dd0b31069.png" alt="adil-hussain-geelani" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/adil-hussain-geelani" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png?20210220164014" alt="adil-hussain-geelani" height="40" width="40" /></a>
 
-<b>Always happy to hear from you </b>
-
 ## 💻 Languages and Tools
 <p align="left"> 
  <a href="https://www.heroku.com/what/" target="_blank" rel ="noreferrer"><img src="https://brandeps.com/logo-download/H/Heroku-logo-vector-01.svg"  alt="c" width="40" height="40"/> </a>
