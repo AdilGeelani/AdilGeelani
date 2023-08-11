@@ -38,4 +38,3 @@
 </p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=adilgeelani&show_icons=true&locale=en&layout=compact&theme=cobalt&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" alt="adilgeelani" /></p>
 
-[![Adil Geelani's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AdilGeelani&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
